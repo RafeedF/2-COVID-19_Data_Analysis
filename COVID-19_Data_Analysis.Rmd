@@ -10,7 +10,27 @@ output:
 
 # [Data Analysis Project using R-Studio]{.underline}
 
+## Purpose:
+
+For this data analysis project, the following three datasets will be explored:
+
+1.  COVID-19 Dataset: This contains COVID-19 case data for a number of different countries, along with the GDP per capita and population of the respective countries.
+2.  Lockdown Dataset: This contains the dates at which lockdowns took place for the respective countries, along with categorising the type of lockdown.
+3.  Vaccination Dataset: This contains COVID-19 vaccination data involving doses and vaccination percentages for the different countries.
+
+Using these datasets, we aim to:
+
+-   Gather information about how countries around the world were affected by the COVID-19 pandemic.
+
+-   Create visualisations to better illustrate the dataset for analysis.
+
+-   Identify and explore relationships between different factors and whether they contributed to a better or worse response to the virus.
+
+-   Explore the application and effectiveness of training/testing data for this COVID-19 dataset to create a polynomial regression model vs using K-Fold Cross Validaton to make predictions.
+
 ## Part 1: Data Wrangling and Integration
+
+### Loading Libraries and Datasets
 
 Load the necessary libraries.
 
