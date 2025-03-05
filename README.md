@@ -1,4 +1,4 @@
-# Please open the PDF markdown file to view my COVID-19 Data Analysis project.
+# Please open the [PDF markdown file](https://github.com/RafeedF/2-COVID-19_Data_Analysis/blob/main/Data%20Analysis%20of%20Worldwide%20COVID-19%20Cases.pdf) to view my COVID-19 Data Analysis project.
 ## LICENSE
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 Repository for worldwide COVID-19 data analysis.
